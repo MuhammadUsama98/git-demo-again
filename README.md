@@ -36,4 +36,11 @@
   - eg: 'git checkout -b task/development-branch'
 - 3 if branch already exist
   - eg: 'git checkout branch name'
-  -   
+
+## upstreaming remote and local branches
+
+- pull request 
+- pull request always balance git remote branches
+- if we want to balnace local main and task/development-branch
+  - git checkout main
+  - git pull (to take the code from git main branch)
