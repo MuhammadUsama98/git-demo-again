@@ -27,4 +27,13 @@
 - git add.
 - git commit -m "second time"
 - git push
-- 
+
+## Branching 
+
+- 1 to check on which branch you are
+  - eg: 'git branch'
+- 2 to move and create new branch
+  - eg: 'git checkout -b task/development-branch'
+- 3 if branch already exist
+  - eg: 'git checkout branch name'
+  -   
